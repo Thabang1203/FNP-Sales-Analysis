@@ -124,5 +124,6 @@ To analyze sales data of Ferns & Petals (an online gifting platform) and create 
 ---
 ## **Objective 3**
 DASHBOARD
-[Ferns and Petals Sales Analysis]![Screenshot 2025-05-10 094150](https://github.com/user-attachments/assets/6f89f5be-1434-4820-8852-9f46011bb0b3)
+[Ferns and Petals Sales Analysis]
+![Screenshot 2025-05-10 094150](https://github.com/user-attachments/assets/6f89f5be-1434-4820-8852-9f46011bb0b3)
 
